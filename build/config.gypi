@@ -71,6 +71,6 @@
     "xcode_version": "7.0",
     "nodedir": "/Users/dziudek/.node-gyp/5.0.5",
     "standalone_static_library": 1,
-    "target": "5.0.5"
+    "target": "5.0.5".
   }
 }
